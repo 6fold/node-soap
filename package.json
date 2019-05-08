@@ -1,6 +1,6 @@
 {
   "name": "@sixfold/soap",
-  "version": "0.23.3",
+  "version": "0.23.4",
   "description": "A minimal node SOAP client",
   "engines": {
     "node": ">=4.0.0"
